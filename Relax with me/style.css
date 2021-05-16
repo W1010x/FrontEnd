@@ -65,7 +65,7 @@ margin: 0;
     left: 140px;
     width: 20px;
     height: 190px;
-    animation: rotate 7.5s linear forwards infinite;
+    animation: rotate 8.5s linear forwards infinite;
     transform-origin: bottom center ;
 }
 @keyframes rotate {
@@ -84,10 +84,10 @@ margin: 0;
 }
 @keyframes grow{
     from{
-        transform: scale(1);
+        transform: scale(1.2);
     }
     to{
-        transform: scale(1.2);
+        transform: scale(1);
     }
 }
 
